@@ -1,1 +1,1 @@
-# .github
+# Oulun Teekkarien Radiokerho ry
